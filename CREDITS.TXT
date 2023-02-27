@@ -1,0 +1,13 @@
+[Fonts]
+- Viga-Regular.ttf
+- License: "Open Font License"
+
+[Music]
+- Author: pauliuw
+- https://opengameart.org/content/the-field-of-dreams
+
+[Coding]
+- Author: Carl Mesias
+- Alias: Cmesias
+- Link: http://cmesias.itch.io
+- Link2: https://github.com/cmesias

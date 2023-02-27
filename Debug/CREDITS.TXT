@@ -1,0 +1,9 @@
+[Fonts]
+- Viga-Regular.ttf
+- License: "Open Font License"
+
+[Coding]
+- Author: Carl Mesias
+- Alias: Cmesias
+- Link: http://cmesias.itch.io
+- Link2: https://github.com/cmesias
